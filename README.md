@@ -14,7 +14,7 @@ A lightweight interactive JSON browser for the terminal.
 ## Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/jaybro
+git clone https://github.com/i8void/jaybro
 cd jaybro
 
 # Make the script executable
